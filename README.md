@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **gabresendemkt@gmail.com**
 
+- 👨🏼‍🎓 about Trybe technology school: **Trybe is a technology school that is genuinely committed to the professional success of its students. There are more than 1500 hours of training, distributed between content study, live classes, individual and group projects and socio-emotional skills development. The school invests all the resources necessary for people to learn the technical skills of a developer in practice, working on projects with real challenges, and evolving their soft skills, in addition to offering connection to the job market and helping with hiring.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-resende-4b6154224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel resende" height="30" width="40" /></a>
