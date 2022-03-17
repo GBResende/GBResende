@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Hooks, Context API, Redux**
 
-- ⚡ Fun fact [i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones](i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones)
+- ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
 
 - 💬 Ask me about **JavaScript, React, Redux**
 
