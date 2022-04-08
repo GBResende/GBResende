@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **anything, I love to talk, but preferably games, lol**
 
 - 📫 How to reach me **gabresendemkt@gmail.com**
 
