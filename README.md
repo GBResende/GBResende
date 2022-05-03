@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbresende&label=Profile%20views&color=0e75b6&style=flat" alt="gbresende" /> </p>
 
-- 🔭 I’m currently working on **Trivia game project**
+- 🔭 I’m currently working on **querys to search datas**
 
-- 🌱 I’m currently learning **Hooks, Context API, Redux**
+- 🌱 I’m currently learning **databases, sql**
 
 - ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
 
