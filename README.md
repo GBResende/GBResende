@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbresende&label=Profile%20views&color=0e75b6&style=flat" alt="gbresende" /> </p>
 
-- 🔭 I’m currently working on **Computer Science**
+- 🔭 I’m currently working on **C# projects**
 
-- 🌱 I’m currently learning **databases, sql**
+- 🌱 I’m currently learning **Computer Science and C#**
 
 - ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
 
