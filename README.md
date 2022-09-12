@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbresende&label=Profile%20views&color=0e75b6&style=flat" alt="gbresende" /> </p>
 
-- 🔭 I’m currently working on **querys to search datas**
+- 🔭 I’m currently working on **Computer Science**
 
 - 🌱 I’m currently learning **databases, sql**
 
