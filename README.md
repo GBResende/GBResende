@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=9816E1&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+learning+something+new+everyday)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Gabriel Resende</h1>
-<h3 align="center">Brazilian front end developer</h3>
+<h3 align="center">Brazilian FullStack developer</h3>
 
 <img align="right" alt="my workspace" width="450px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 
